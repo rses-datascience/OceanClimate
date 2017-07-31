@@ -1,6 +1,6 @@
 # OceanClimate
 
-GitHub Repository for the Ocean (palaeo)climate and biogeochemistry.
+GitHub Repository for ocean (palaeo)climate and biogeochemistry at [RSES, ANU](http://rses.anu.edu.au/).
 
 Contents:
 * **Notebooks:** Examples, tutorials, useful workflows.
