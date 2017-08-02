@@ -6,7 +6,7 @@ This folder contains various [Jupyter Notebooks](http://jupyter.org/) with tutor
 
 ### Tutorials
 * [Python very-basics](Tutorials/Python_very-basics.ipynb)
-* [Git very-basics](Tutorials/Git_Very_Basics.ipynb)
+<!-- * [Git very-basics](Tutorials/Git_Very_Basics.ipynb) -->
 
 ### Examples
 * [Anand2003_Reprocessing](Examples/Anand2003_Reprocessing.ipynb): A detailed example of using Python and Jupyter Notebooks to reproduce the Mg/Ca-Temperature relationship of [Anand et al, 2003](http://dx.doi.org/10.1029/2002PA000846).
