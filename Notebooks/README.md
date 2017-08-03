@@ -15,7 +15,7 @@ This folder contains various [Jupyter Notebooks](http://jupyter.org/) with tutor
 
 Notebooks can be read online by clicking on the links above, or downloaded and run on your own computer. If you'd like to do the latter, you need to install a few things first. There are three sets of instructions below - pick one, as appropriate.
 
-### Option 1: Complete Beginner
+### Option 1: Beginner
 
 If you've never touched Python before, or are feeling intimidated by Terminal windows, this is for you. It's the simplest possible 'way in' to Python and Jupyter. In future, you might want to transition to Option 2... but this approach is totally fine, and it won't stop you doing anything.
 
@@ -34,7 +34,7 @@ You now have the entire OceanScience repository on your computer, in a run-able 
 
 If you're just getting started in Python, I recommend going over the [Python very-basics](Tutorials/Python_very-basics.ipynb) Notebook for some tips.
 
-### Option 2: Dedicated Beginner / Intermediate
+<!-- ### Option 2: Dedicated Beginner / Intermediate
 
 1. Install [Docker](https://www.docker.com/).
     Docker provides a convenient way of installing software so that it 'just works' on any computer or platform.
@@ -49,7 +49,7 @@ docker run -it --rm -p 8888:8888 -v /my_path/:/home/jovyan/work jupyter/datascie
 4. [Download and install Git](https://git-scm.com/downloads)
 5. [Download and install SourceTree](https://www.sourcetreeapp.com/), a user-friendly graphical interface to Git.
 6. In the 'repository browser' of SourceTree click '+ New Repository' and choose 'Clone from URL'. Paste `https://github.com/rses-datascience/OceanClimate` into the 'Source URL' box, specify where you'd like to save it in the box below, and click 'Clone'.
-7. Pyth-ON!
+7. Pyth-ON! -->
 
-### Option 3: Experienced User
+### Option 2: Experienced User
 If you're a Python officionado, just make sure you have Git, Jupyter and all dependecies installed, and clone the OceanClimate repository.
