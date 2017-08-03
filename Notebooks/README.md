@@ -17,7 +17,7 @@ Notebooks can be read online by clicking on the links above, or downloaded and r
 
 ### Option 1: Beginner
 
-If you've never touched Python before, or are feeling intimidated by Terminal windows, this is for you. It's the simplest possible 'way in' to Python and Jupyter. In future, you might want to transition to Option 2... but this approach is totally fine, and it won't stop you doing anything.
+If you've never touched Python before, or are feeling intimidated by Terminal windows, this is for you. It's the simplest possible 'way in' to Python and Jupyter.
 
 1. Install [Anaconda](https://www.continuum.io/downloads).
     This is a commercially maintained Python 'distribution', which contains curated versions everything you'll need to get started. Anaconda is designed to be reliable and stable, so might not always have the very latest versions of packages, but it's *more* than enough to get you started.
